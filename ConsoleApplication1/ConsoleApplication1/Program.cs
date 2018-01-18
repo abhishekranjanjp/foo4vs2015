@@ -17,6 +17,8 @@ namespace ConsoleApplication1
             //code to call feature 1
 
             //new code in f1
+
+            //new code f2
         }
     }
 }
